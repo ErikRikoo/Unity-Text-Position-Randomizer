@@ -1,0 +1,9 @@
+﻿{
+  "name": "com.rikoo.text-position-randomizer",
+  "displayName": "Text Position Randomizer",
+  "version": "1.0.0",
+  "description": "This package allows you to randomize the position of a Text Mesh Pro element",
+  "keywords": [
+    "utility"
+  ]
+}
